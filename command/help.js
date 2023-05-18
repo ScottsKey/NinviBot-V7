@@ -541,4 +541,15 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `*List Sewa NinviBot*
+7 Hari = Rp. 5.000
+15 Hari = Rp. 10.000
+30 Hari = Rp. 20.000
+
+
+_Contact Owner_
+wa.me/6288242420964
+(Chat Owner jika ingin sewa *NinviBot*)
+
+
+_Note: Bot aktif selama 24 Jam. kecuali jika ada perbaikan fitur, error, server bermasalah, dll._`
